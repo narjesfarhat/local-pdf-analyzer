@@ -1,0 +1,21 @@
+# Generated output — not part of the project
+analysis_output.txt
+
+# PDF files — too large and not source code
+*.pdf
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
